@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JUstSundar
-- 👀 I’m interested in girls and coding
+- 👀 I’m interested  coding
 - 🌱 I’m currently learning C
 
 
