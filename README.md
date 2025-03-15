@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @JUstSundar
 - 👀 I’m interested  coding
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C, C++, Java
+  
 
 
 <!---
